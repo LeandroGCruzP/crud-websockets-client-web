@@ -10,11 +10,11 @@ Create a real-time list to help others developers who need to implement in their
 ## 🔧 Tools
 Tools | Version
 ----- | --------
-Vite | 3.0.0
-React | 18.2.0
+[Vite](https://vitejs.dev/guide/) | 3.0.0
+[React](https://pt-br.reactjs.org/docs/getting-started.html) | 18.2.0
+[Socket IO Client](https://socket.io/docs/v4/client-api/) | 4.5.1
+[Chakra UI](https://chakra-ui.com/getting-started) | 2.2.6
 Typescript | 4.6.4
-Socket IO Client | 4.5.1
-Chakra UI | 2.2.6
 
 ## 👥 Clone this repository
 First, clone this repository with HTTPS
@@ -31,7 +31,7 @@ git clone git@github.com:LeandroGCruzP/crud-websockets-client-web.git
 After, install dependencies of the project
 
 ```bash
-cd crud-websockets-client
+cd crud-websockets-client-web
 ```
 
 ```bash
