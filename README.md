@@ -5,7 +5,7 @@
 > ⚠️ The backend is needed to reproduce the project. Clone it [here](https://github.com/KollerZx/crud-websockets)
 
 ## 👷 Motivation
-Create a real-time list to help others developers who need to implement in their projects web socket
+Create a real-time list to help others developers who need to implement in their projects web socket. Other implementation is on [mobile](https://github.com/LeandroGCruzP/crud-websockets-client-mobile)
 
 ## 🔧 Tools
 Tools | Version
@@ -19,13 +19,13 @@ Chakra UI | 2.2.6
 ## 👥 Clone this repository
 First, clone this repository with HTTPS
 ```bash
-git clone https://github.com/LeandroGCruzP/crud-websockets-client.git
+git clone https://github.com/LeandroGCruzP/crud-websockets-client-web.git
 ```
 
 or with SSH
 
 ```bash
-git clone git@github.com:LeandroGCruzP/crud-websockets-client.git
+git clone git@github.com:LeandroGCruzP/crud-websockets-client-web.git
 ```
 
 After, install dependencies of the project
